@@ -1,0 +1,17 @@
+# ninja log v6
+5	231	1726588372142459322	CMakeFiles/genericlinkedlist.dir/main.cpp.o	2b769e24c188b781
+5	231	1726588372143254454	CMakeFiles/genericlinkedlist.dir/USer.cpp.o	da0612cab2741f5
+5	236	1726588372143094703	CMakeFiles/genericlinkedlist.dir/LinkedList.cpp.o	1a8fc7d3fabf07a2
+199	226	1726587721456095929	genericlinkedlist	41fc12df32dccaf0
+5	232	1726588372142888076	CMakeFiles/genericlinkedlist.dir/Node.cpp.o	fb699fd9edb28c63
+4	201	1726588461292057167	CMakeFiles/genericlinkedlist.dir/User.cpp.o	b23a647e8607c5f
+1	42	1726588463112918395	build.ninja	bced61975bc17715
+4	218	1726588497053925232	CMakeFiles/genericlinkedlist.dir/User.cpp.o	b23a647e8607c5f
+3	219	1726588497053405861	CMakeFiles/genericlinkedlist.dir/main.cpp.o	2b769e24c188b781
+4	219	1726588497053708692	CMakeFiles/genericlinkedlist.dir/Node.cpp.o	fb699fd9edb28c63
+4	223	1726588497053826900	CMakeFiles/genericlinkedlist.dir/LinkedList.cpp.o	1a8fc7d3fabf07a2
+4	221	1726588533201189802	CMakeFiles/genericlinkedlist.dir/User.cpp.o	b23a647e8607c5f
+4	221	1726588533200664346	CMakeFiles/genericlinkedlist.dir/main.cpp.o	2b769e24c188b781
+4	222	1726588533200964136	CMakeFiles/genericlinkedlist.dir/Node.cpp.o	fb699fd9edb28c63
+4	230	1726588533201085094	CMakeFiles/genericlinkedlist.dir/LinkedList.cpp.o	1a8fc7d3fabf07a2
+230	257	1726588533427214723	genericlinkedlist	1f43b9369c1df5c9
